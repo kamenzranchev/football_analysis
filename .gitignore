@@ -4,3 +4,5 @@
 *.mp4
 *.avi
 *.pt
+
+.ipynb_checkpoints
